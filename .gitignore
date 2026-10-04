@@ -1,0 +1,21 @@
+# Local Python environments
+.venv/
+**/.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.env
+.env.*
+config.json
+json.config
+**/config.json
+**/json.config
+
+# Operating-system/editor files
+.DS_Store
+
+# Duplicate archive of the project
+*.zip
